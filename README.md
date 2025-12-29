@@ -1,3 +1,3 @@
 # WCS-TSSR
-apprentissage
+apprentissage :
 ça part de là !
