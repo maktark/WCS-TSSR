@@ -23,6 +23,6 @@
     
 *  ## langues parlées :
 
-    *  [**latin de cuisine** :](https://fr.lipsum.com/)
+    *  [**latin de cuisine** ](https://fr.lipsum.com/)
     *  **anglais**
    
