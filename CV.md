@@ -2,8 +2,8 @@
 <img width="100" height="97" alt="cv2" src="https://github.com/user-attachments/assets/985d4081-3c45-4a32-94e8-72fcef292a68" />
 
 * ## presentation:  
- Lorem ipsum dolor sit amet,  
- consectetur adipiscing elit.
+    Lorem ipsum dolor sit amet,  
+    consectetur adipiscing elit.
  
  * ## formation:
  
@@ -20,3 +20,9 @@
 *  ## hobies :
     * Vestibulum ante ipsum
     * nunc turpis ullamcorper nibh
+    
+*  ## langues parlées :
+
+    *  [**latin de cuisine** :](https://fr.lipsum.com/)
+    *  **anglais**
+   
